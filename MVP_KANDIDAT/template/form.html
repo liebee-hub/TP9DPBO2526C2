@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8"><title>{{TITLE}}</title>
+<link rel="stylesheet" href="template/style.css"></head><body>
+<div class="nav"><a href="index.php?page=kandidat" class="active">Kandidat</a><a href="index.php?page=lowongan">Lowongan</a></div>
+<div class="card form"><h2>{{TITLE}}</h2>
+<form method="POST" action="index.php?page=kandidat">
+<input type="hidden" name="action" value="{{ACTION}}"><input type="hidden" name="id" value="{{ID}}">
+<label>Nama</label><input type="text" name="nama" value="{{NAMA}}" required>
+<label>Posisi Dilamar</label><input type="text" name="posisi" value="{{POSISI}}" required>
+<label>Domisili</label><input type="text" name="domisili" value="{{DOMISILI}}" required>
+<label>Skor Tes (0-100)</label><input type="number" name="skorTes" min="0" max="100" value="{{SKORTES}}" required>
+<label>Pengalaman (tahun)</label><input type="number" name="pengalamanTahun" min="0" value="{{PENGALAMANTAHUN}}" required>
+<div class="btns"><button class="btn" type="submit">Simpan</button><a class="btn sec" href="index.php?page=kandidat">Batal</a></div>
+</form></div></body></html>

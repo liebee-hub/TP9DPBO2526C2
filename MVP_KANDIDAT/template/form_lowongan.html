@@ -1,0 +1,14 @@
+<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8"><title>{{TITLE}}</title>
+<link rel="stylesheet" href="template/style.css"></head><body>
+<div class="nav"><a href="index.php?page=kandidat">Kandidat</a><a href="index.php?page=lowongan" class="active">Lowongan</a></div>
+<div class="card form"><h2>{{TITLE}}</h2>
+<form method="POST" action="index.php?page=lowongan">
+<input type="hidden" name="action" value="{{ACTION}}"><input type="hidden" name="id" value="{{ID}}">
+<label>Judul Lowongan</label><input type="text" name="judul" value="{{JUDUL}}" required>
+<label>Departemen</label><input type="text" name="departemen" value="{{DEPARTEMEN}}" required>
+<label>Lokasi</label><input type="text" name="lokasi" value="{{LOKASI}}" required>
+<label>Gaji (Rp)</label><input type="number" name="gaji" min="0" value="{{GAJI}}" required>
+<label>Kuota</label><input type="number" name="kuota" min="1" value="{{KUOTA}}" required>
+<label>Status</label><select name="status"><option value="Buka" {{SELBUKA}}>Buka</option><option value="Tutup" {{SELTUTUP}}>Tutup</option></select>
+<div class="btns"><button class="btn" type="submit">Simpan</button><a class="btn sec" href="index.php?page=lowongan">Batal</a></div>
+</form></div></body></html>
