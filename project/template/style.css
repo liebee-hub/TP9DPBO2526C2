@@ -1,0 +1,21 @@
+*{box-sizing:border-box}body{font-family:Inter,Arial,sans-serif;background:#f4f4f8;margin:0;padding:32px;color:#111827}
+.nav{max-width:960px;margin:0 auto 16px;display:flex;gap:8px}
+.nav a{padding:8px 16px;border-radius:8px;background:#fff;color:#374151;text-decoration:none;font-size:14px;border:1px solid #e5e7eb}
+.nav a.active{background:#2563eb;color:#fff;border-color:#2563eb}
+.card{max-width:960px;margin:0 auto;background:#fff;border-radius:12px;padding:24px;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+.card.form{max-width:520px}
+h2{margin:0 0 16px;font-size:18px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;color:#6b7280;font-weight:500;padding:10px 8px;border-bottom:1px solid #e5e7eb}
+td{padding:12px 8px;border-bottom:1px solid #f3f4f6}
+.aksi{text-align:right;white-space:nowrap}.aksi form{display:inline}
+.edit{color:#2563eb;text-decoration:none;font-weight:600;margin-right:12px;font-size:12px}
+.hapus{background:none;border:0;color:#dc2626;font-weight:600;cursor:pointer;font-size:12px}
+.foot{display:flex;justify-content:space-between;align-items:center;margin-top:20px;font-size:12px;color:#6b7280}
+.btn{background:#2563eb;color:#fff;padding:10px 16px;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;border:0;cursor:pointer}
+.btn.sec{background:#e5e7eb;color:#374151}
+label{display:block;font-size:13px;margin:14px 0 6px;color:#374151}
+input,select{width:100%;padding:10px;border:1px solid #d1d5db;border-radius:8px;font-size:14px}
+.btns{display:flex;gap:8px;margin-top:20px}
+.badge{padding:3px 10px;border-radius:999px;font-size:11px;font-weight:600}
+.badge.buka{background:#dcfce7;color:#166534}.badge.tutup{background:#fee2e2;color:#991b1b}
