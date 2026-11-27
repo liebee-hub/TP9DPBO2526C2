@@ -98,27 +98,33 @@ Halaman Kandidat (`index.php?page=kandidat`) memakai pola yang sama. Bedanya, da
 ## Dokumentasi
 
 Halaman Kandidat
-<!-- tempel screenshot -->
+<img width="1917" height="957" alt="tp9 web kandidat" src="https://github.com/user-attachments/assets/9bc17e31-912c-403a-a458-46aee8d1d4dd" />
+
 
 Add Kandidat
-<!-- tempel screenshot -->
+<img width="1917" height="957" alt="tp9 add kandidat" src="https://github.com/user-attachments/assets/3f06a5a8-03b5-4e6a-a863-654c9c8c8ed1" />
+<img width="1917" height="960" alt="tp9 add kandidat2" src="https://github.com/user-attachments/assets/bcb628e8-28da-4845-bed2-a1da26ad92ec" />
 
 Edit Kandidat
-<!-- tempel screenshot -->
+<img width="1917" height="957" alt="tp9 edit kandidat" src="https://github.com/user-attachments/assets/6303a000-f58a-4fa4-90bb-3f9865dea0f6" />
+<img width="1917" height="960" alt="tp9 edit kandidat2" src="https://github.com/user-attachments/assets/62e1c0bd-79b6-4646-80fa-d354aabd3e8c" />
 
 Delete Kandidat
-<!-- tempel screenshot -->
+<img width="1915" height="957" alt="tp9 hapus kandidat" src="https://github.com/user-attachments/assets/5694714b-9bba-477e-bc88-886dde72388a" />
+
 
 Halaman Lowongan
-<!-- tempel screenshot -->
+<img width="1917" height="952" alt="tp9 web lowongan" src="https://github.com/user-attachments/assets/41124465-114d-49fd-bbd2-14308870b1dd" />
+
 
 Add Lowongan
-<!-- tempel screenshot -->
+<img width="1917" height="956" alt="tp9 add lowongan" src="https://github.com/user-attachments/assets/c4a31685-7a9b-48c4-8746-b5604240aec3" />
+<img width="1917" height="960" alt="tp9 add lowongan 2" src="https://github.com/user-attachments/assets/d37fc7db-92d6-4daf-b44c-d7217b4b4961" />
+
 
 Edit Lowongan
-<!-- tempel screenshot -->
+<img width="1895" height="957" alt="tp9 edit lowongan" src="https://github.com/user-attachments/assets/7a41f120-56c3-4d2b-9d72-805ce66ca019" />
+<img width="1917" height="957" alt="tp9 edit lowongan2" src="https://github.com/user-attachments/assets/59afa4bb-346f-4ef3-8437-32fb2e177c7a" />
 
 Delete Lowongan
-<!-- tempel screenshot -->
-
-Screenrecord program yang berjalan ada di folder `dokumentasi/`.
+<img width="1917" height="962" alt="tp9 hapus lowongan" src="https://github.com/user-attachments/assets/600bbbe9-f47e-4c47-9113-4fc8a338c3b4" />
